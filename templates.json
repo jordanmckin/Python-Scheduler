@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Yshtola Diffusion",
+    "script_path": "D:/Yshtola Diffusion/train.py",
+    "working_directory": "D:\\Yshtola Diffusion",
+    "script_arguments": "",
+    "setup_commands": "",
+    "environment": "C:\\Users\\8bits\\miniconda3\\envs\\latent-diffusion",
+    "allow_parallel": true,
+    "template_name": "Yshtola Diffusion"
+  },
+  {
+    "name": "Yuna GPT",
+    "script_path": "D:/Yuna GPT/YUNA_LLAMA_TRAINING.py",
+    "working_directory": "D:\\Yuna GPT",
+    "script_arguments": "",
+    "setup_commands": "",
+    "environment": "C:\\Users\\8bits\\miniconda3\\envs\\murasaki",
+    "allow_parallel": true,
+    "template_name": "Yuna GPT"
+  }
+]
